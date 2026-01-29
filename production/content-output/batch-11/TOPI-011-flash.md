@@ -1,0 +1,15 @@
+# 7 ขั้นตอนสร้าง 10X Content Pillar Page - Flashcards
+
+## Metadata
+| Field | Value |
+|-------|-------|
+| **Source ID** | TOPI-011 |
+| **Title** | 7 ขั้นตอนสร้าง 10X Content Pillar Page |
+| **Chapter** | 13: กลยุทธ์การทำ Topic |
+| **Duration** | 1:10:11 |
+| **Format** | Flashcards |
+| **Status** | Ready for NotebookLM |
+
+---
+
+> *Pink Castle Foundation Kit v1.0 | Batch 11 - Phase 3B*
