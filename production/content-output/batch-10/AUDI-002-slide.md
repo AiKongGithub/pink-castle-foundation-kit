@@ -1,0 +1,15 @@
+# วิธีสร้างผู้ติดตามแฟนพันธ์แท้ ตอนที่ 2 - Slides
+
+## Metadata
+| Field | Value |
+|-------|-------|
+| **Source ID** | AUDI-002 |
+| **Title** | วิธีสร้างผู้ติดตามแฟนพันธ์แท้ ตอนที่ 2 |
+| **Chapter** | 26: Grow Your Audience Mastery |
+| **Duration** | 2:25:37 |
+| **Format** | Slides |
+| **Status** | Ready for NotebookLM |
+
+---
+
+> *Pink Castle Foundation Kit v1.0 | Batch 10 - Phase 3B*
