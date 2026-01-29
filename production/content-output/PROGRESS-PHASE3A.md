@@ -1,8 +1,8 @@
 # Phase 3A Progress Report
 
 > **Last Updated:** 2026-01-29
-> **Session:** Batch 5 Complete
-> **Next:** Batch 6 (TBD)
+> **Session:** Batch 6 Complete
+> **Next:** Batch 7 (Final stretch!)
 
 ---
 
@@ -16,18 +16,18 @@
 | Batch 3 | Ch15 Youtube (Part 1) | 20 | 180 | ✅ Complete |
 | Batch 4 | Ch15 Youtube (Part 2) | 17 | 153 | ✅ Complete |
 | Batch 5 | Ch16/17/18 Ads | 20 | 180 | ✅ Complete |
-| **Total Done** | | **94** | **846** | **66.7%** |
+| Batch 6 | Ch19/20 Campaign+Kartra | 21 | 189 | ✅ Complete |
+| **Total Done** | | **115** | **1,035** | **81.6%** |
 
 ---
 
-## Batch 5 Details
+## Batch 6 Details
 
 | Chapter | Name | Sources | Pieces |
 |---------|------|---------|--------|
-| 16 | Paid Traffic Mastery | 3 | 27 |
-| 17 | Youtube Advertising Mastery | 9 | 81 |
-| 18 | Youtube Ads Mindset | 8 | 72 |
-| **Total** | | **20** | **180** |
+| 19 | Youtube Ads Campaign | 10 | 90 |
+| 20 | Cloning Sale Funnel Kartra | 11 | 99 |
+| **Total** | | **21** | **189** |
 
 ---
 
@@ -35,14 +35,12 @@
 
 | Batch | Chapter | Sources | Pieces | Status |
 |-------|---------|---------|--------|--------|
-| Batch 6 | TBD | ~15 | ~135 | ⬜ Pending |
-| Batch 7 | TBD | ~15 | ~135 | ⬜ Pending |
-| Batch 8+ | Remaining | ~17 | ~153 | ⬜ Pending |
-| **Remaining** | | **~47** | **~423** | |
+| Batch 7+ | Remaining chapters | ~26 | ~234 | ⬜ Pending |
+| **Remaining** | | **~26** | **~234** | |
 
 ---
 
-## Chapters Completed
+## Chapters Completed (11 chapters)
 
 | Chapter | Name | Files | Duration | Batch |
 |---------|------|-------|----------|-------|
@@ -51,6 +49,8 @@
 | 16 | Paid Traffic Mastery | 3 | 5:07:02 | 5 |
 | 17 | Youtube Advertising Mastery | 9 | 3:17:16 | 5 |
 | 18 | Youtube Ads Mindset | 8 | 2:03:43 | 5 |
+| 19 | Youtube Ads Campaign | 10 | 4:13:11 | 6 |
+| 20 | Cloning Sale Funnel Kartra | 11 | 4:02:59 | 6 |
 | 21 | เริ่มต้นสร้างระบบอีเมล | 8 | 1:15:25 | 1 |
 | 24 | Email Marketing Mastery | 4 | 8:48:05 | 1 |
 | 25 | Webinar Mastery | 2 | 6:31:13 | 1 |
@@ -60,7 +60,8 @@
 ## GitHub Commits
 
 ```
-(pending) - Batch 5 Complete (180 pieces) - 66.7%
+(pending) - Batch 6 Complete (189 pieces) - 81.6%
+e4435e3 - Batch 5 Complete (180 pieces) - 66.7%
 af98802 - Batch 4 Complete (153 pieces)
 0b97b1c - Batch 3 Complete (180 pieces)
 869b71b - Batch 2 Complete (144 pieces)
@@ -73,15 +74,15 @@ xxxxx - Pilot 10 Complete (90 pieces)
 ## Production Stats
 
 - **Total Target:** 1,269 pieces (141 sources × 9 formats)
-- **Completed:** 846 pieces (66.7%)
-- **Remaining:** 423 pieces (33.3%)
+- **Completed:** 1,035 pieces (81.6%)
+- **Remaining:** 234 pieces (18.4%)
 
 ---
 
 ## Progress Visualization
 
 ```
-[████████████████████░░░░░░░░░░] 66.7%
+[████████████████████████░░░░░░] 81.6%
 
 Pilot:  ███ 90
 Batch1: ███ 99
@@ -89,8 +90,11 @@ Batch2: ████ 144
 Batch3: █████ 180
 Batch4: ████ 153
 Batch5: █████ 180
+Batch6: █████ 189
 ────────────────
-Total:  846/1,269
+Total:  1,035/1,269
+
+🏆 PASSED 80% MILESTONE! 🏆
 ```
 
 ---
